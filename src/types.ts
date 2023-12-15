@@ -1,0 +1,1 @@
+export type CountState = 'WHITE' | 'BLACK' | 'nothing' | 'BOTH'
